@@ -16,6 +16,10 @@
     "typescript": "^4.8.2",
     "web-vitals": "^2.1.4"
   },
+  "devDependencies": {
+    "sass": "^1.54.5",
+    "storybook-docs": "https://github.com/matheusgrodrigues/storybook.git"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
